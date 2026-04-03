@@ -1,4 +1,4 @@
-import { text } from 'figlet'
+
 import React from 'react'
 
 const Title = ({text1,text2}) => {
